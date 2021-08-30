@@ -28,7 +28,7 @@ GitHub: [`sAsPeCt488`](https://github.com/sAsPeCt488)
 
 **Shad3**
 
-Discord: Shad3#0402
+Discord: `Shad3#0402`
 
 LinkedIn: [`Angelos T. Kalaitzidis`](https://www.linkedin.com/in/angelos-taxiarchis-kalaitzidis-2b9731188/) 
 
