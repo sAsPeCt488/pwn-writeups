@@ -10,6 +10,13 @@ Audited by: @0xShad3 aka @Shad3
 ***Note:*** All the writeups that are presenting a solution for a currently running CTF e.g. pwnable.xyz, 
 are password protected with the flag of the corresponding challenge. 
 
+### ropemporium.com
+
+- ret2win - [`here`](https://www.saspectcave.net/pwn/ret2win/)
+- split -  [`here`](https://www.saspectcave.net/pwn/split/)
+- callme - [`here`](https://www.saspectcave.net/pwn/callme/)
+- write4 - [`here`](https://www.saspectcave.net/pwn/write4/)
+
 ### pwnable.xyz
 
 - welcome - [50 pts]
