@@ -7,7 +7,7 @@ Audited by: @0xShad3 aka @Shad3
 
 ## Included Challenges:
 
-***Note:*** All the writeups that are presenting a solution for a currently running CTF e.g. pwnable.xyz, 
+***Note:*** All the writeups that are presenting a solution for a active CTF e.g. pwnable.xyz, 
 are password protected with the flag of the corresponding challenge. 
 
 ### ropemporium.com
