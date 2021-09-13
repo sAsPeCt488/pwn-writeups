@@ -21,7 +21,7 @@ are password protected with the flag of the corresponding challenge.
 
 - welcome - [50 pts]
 - sub - [50 pts]
-
+- add - [50 pts]
 
 ## For any inquiries:
 
