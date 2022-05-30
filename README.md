@@ -26,7 +26,8 @@ are password protected with the flag of the corresponding challenge.
 - GrownUp - [50 pts]
 - note - [50 pts]
 - xor - [50 pts]
-- two\_targets - [50 pts]
+- two targets - [50 pts]
+- Free Spirit - [100 pts]
 
 ## For any inquiries:
 
