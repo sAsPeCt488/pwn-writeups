@@ -12,11 +12,11 @@ are password protected with the flag of the corresponding challenge.
 
 ### ropemporium.com
 
-- ret2win  - [`here`](https://www.saspectcave.net/pwn/ret2win/)
-- split    - [`here`](https://www.saspectcave.net/pwn/split/)
-- callme   - [`here`](https://www.saspectcave.net/pwn/callme/)
-- write4   - [`here`](https://www.saspectcave.net/pwn/write4/)
-- badchars - [`here`](https://www.saspectcave.net/pwn/badchars/)
+- ret2win  - [`here`](https://saspectcave.net/posts/ropemporium-ret2win/)
+- split    - [`here`](https://saspectcave.net/posts/ropemporium-split/)
+- callme   - [`here`](https://saspectcave.net/posts/ropemporium-callme/)
+- write4   - [`here`](https://saspectcave.net/posts/ropemporium-write4/)
+- badchars - [`here`](https://saspectcave.net/posts/ropemporium-badchars/)
 
 ### pwnable.xyz
 
