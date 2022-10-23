@@ -28,6 +28,7 @@ are password protected with the flag of the corresponding challenge.
 - xor - [50 pts]
 - two targets - [50 pts]
 - Free Spirit - [100 pts]
+- Jmp table - [100 pts]
 
 ## For any inquiries:
 
