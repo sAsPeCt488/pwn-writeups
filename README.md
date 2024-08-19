@@ -29,8 +29,3 @@ are password protected with the flag of the corresponding challenge.
 - two targets - [50 pts]
 - Free Spirit - [100 pts]
 - Jmp table - [100 pts]
-
-
-LinkedIn: [`Angelos T. Kalaitzidis`](https://www.linkedin.com/in/angelos-taxiarchis-kalaitzidis-2b9731188/) 
-
-GitHub: [`0xShad3`](https://github.com/0xShad3)
