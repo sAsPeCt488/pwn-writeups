@@ -1,9 +1,9 @@
 # Pwn Writeups
 A collection of writeups on Pwn Challenges.
 
-Solved by : @sAsPeCt
+Solved by : saspect
 
-Audited by: @0xShad3 aka @Shad3
+Reviewed by: [0xShad3](https://github.com/0xShad3)
 
 ## Included Challenges:
 
@@ -30,19 +30,6 @@ are password protected with the flag of the corresponding challenge.
 - Free Spirit - [100 pts]
 - Jmp table - [100 pts]
 
-## For any inquiries:
-
-**sAsPeCt**
-
-Discord: `sAsPeCt#8643`
-
-LinkedIn: [`Athanasios Mitragkas`](https://www.linkedin.com/in/athanasios-mitragkas/)
-
-GitHub: [`sAsPeCt488`](https://github.com/sAsPeCt488) 
-
-**Shad3**
-
-Discord: `Shad3#0402`
 
 LinkedIn: [`Angelos T. Kalaitzidis`](https://www.linkedin.com/in/angelos-taxiarchis-kalaitzidis-2b9731188/) 
 
